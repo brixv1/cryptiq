@@ -1,12 +1,16 @@
-![Logo](https://cylix.vercel.app/icon.svg)
+![Logo](https://cryptiq-five.vercel.app/icon.png?0f911b4611f70669)
 
 # Cryptiq
 
 Cryptiq simulates a full-stack crypto website.
 
+## Build with:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,mongodb)](https://skillicons.dev) && Next-Auth
+
 ## Demo
 
-https://cylix.vercel.app/
+https://cryptiq-five.vercel.app/
 
 ## Environment Variables
 
@@ -18,11 +22,8 @@ To run this project, you will need to add the following environment variables to
 
 ## Features
 
-- Framer Anmimations
+- Framer Animations
 - Protected Routes
 - Responsive
 - Login System
-
-## Build with:
-
-Nexts 13, Tailwind CSS, Next-Auth, Prisma, Framer-motion
+- Server side validation
