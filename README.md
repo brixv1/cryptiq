@@ -4,6 +4,8 @@
 
 Cryptiq simulates a full-stack crypto website.
 
+Video Demo: https://youtu.be/bELdBtruQB0
+
 ## Build with:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,mongodb)](https://skillicons.dev) && Next-Auth
