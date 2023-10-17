@@ -1,4 +1,5 @@
-![Logo](https://cryptiq-five.vercel.app/icon.png?0f911b4611f70669)
+![Preview](https://github.com/brixv1/cryptiq/assets/135877207/f9c4a83c-a133-43cc-b7a9-979f4b6288d6)
+
 
 # Cryptiq
 
